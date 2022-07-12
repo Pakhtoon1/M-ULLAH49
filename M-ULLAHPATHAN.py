@@ -132,7 +132,7 @@ def main_apv():
 
     imt="110Y=="
 
-    ak="ZEESHSH-1"
+    ak="PATHAN-1"
 
     os.system('clear')
 
@@ -184,7 +184,7 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20Key%20%20:%20'+ak+''+myid+''+imt
 
-        os.system('am start https://wa.me/+923235543277?text=' + tks)
+        os.system('am start https://wa.me/+923435573976?text=' + tks)
 
         
 
@@ -222,7 +222,7 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
 
-        os.system('am start https://wa.me/+923047274393?text=' + tks)
+        os.system('am start https://wa.me/+923435573976?text=' + tks)
 
 logo="""\033[1;37m
 
